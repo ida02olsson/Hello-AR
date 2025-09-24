@@ -2,6 +2,10 @@ Library/
 Temp/
 Obj/
 Build/
+Logs/
+UserSettings/
 *.apk
 *.aab
 *.exe
+*.csproj
+*.sln
